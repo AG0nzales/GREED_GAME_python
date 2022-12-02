@@ -1,4 +1,3 @@
-# **WEEK 4 ACTIVITY**
 ## GEMS & ROCKS GAME
 
 > **ABOUT THE GAME**
